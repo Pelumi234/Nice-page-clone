@@ -275,11 +275,10 @@ header{
  }
 .product-details{
     width: 30%;
-    /* margin-top: 70px; */
     padding-left: 1.5rem;
 }
  .product-heading{
-    font-size: 46px;
+    font-size: 25px;
     font-family: 'Roboto', sans-serif;
     font-size: unset;
     font-weight: lighter;
@@ -300,7 +299,7 @@ header{
 }
 .product-btn{
     height: 50px;     
-    margin-top: 50px;
+    margin-top: 40px;
     padding: 10px 56px 10px 55px;
     color: white ;
     background-color: black;
