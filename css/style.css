@@ -163,14 +163,13 @@ header{
     margin: 0px 0px;
 }
 .article-section .article-image{
-    width: 140%;
     background-image: url('./../images/Copy\ of\ article-img.jpeg');
     background-repeat: no-repeat;
     border: 5px solid transparent;
 }
 .article-section .article-img-container{
     width:100vw;
-    height: 300vh;
+    height: 270vh;
 }
 .article-section .article-img{
     height: 100vh;
