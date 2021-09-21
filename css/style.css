@@ -266,7 +266,7 @@ header{
     padding: 4rem;
  }
  .grp-products{
-    height: 95%;
+    height: 98%;
     width: 32%;
  }
  img{
@@ -299,7 +299,7 @@ header{
 }
 .product-btn{
     height: 50px;     
-    margin-top: 35px;
+    margin-top: 30px;
     padding: 10px 56px 10px 55px;
     color: white ;
     background-color: black;
