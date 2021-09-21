@@ -159,13 +159,12 @@ header{
     background-size: cover;
     flex-direction: row;
     justify-content: center;
-    padding: 50px;
     margin: 0px 0px;
 }
 .article-section .article-image{
     background-image: url('./../images/Copy\ of\ article-img.jpeg');
     background-repeat: no-repeat;
-    border: 5px solid transparent;
+    border: 2px solid transparent;
 }
 .article-section .article-img-container{
     width:100vw;
