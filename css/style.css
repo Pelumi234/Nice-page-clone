@@ -170,14 +170,14 @@ header{
 }
 .article-section .article-img-container{
     width:100vw;
-    height: 100vh;
+    height: 300vh;
 }
 .article-section .article-img{
     height: 100vh;
     width: 70%;
 }
 .article-text{
-    width: 30%;
+    width: 60%;
     height: 100vh;
     margin-top: 100px;
     padding: 20px;
