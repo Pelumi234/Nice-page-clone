@@ -286,6 +286,7 @@ header{
 .product-details{
     width: 30%;
     padding-left: 1.5rem;
+    margin-top: 50px;
 }
  .product-heading{
     font-size: 25px;
