@@ -245,6 +245,13 @@ header{
     font-style: italic;
     padding: 65px;
 }
+.arrow{
+    height: 20vh;
+    width: 20%;
+    font-size: 60px;
+    padding-left: 350px;
+    margin-left: 550px;
+}
 .products{
     display: flex;
     flex-direction: row;
