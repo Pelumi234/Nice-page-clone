@@ -160,6 +160,7 @@ header{
     flex-direction: row;
     justify-content: center;
     margin: 0px 0px;
+    padding: 50px;
 }
 .article-section .article-image{
     background-image: url('./../images/Copy\ of\ article-img.jpeg');
